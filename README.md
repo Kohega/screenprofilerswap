@@ -29,7 +29,8 @@ Do this for all the resolutions you want.
 2. Set Log Level to `DEBUG`
 3. Set the Pre-command DO to `screenprofilerswap`
 4. Set the Pre-command UNDO to `screenprofilerback`
-5. Save and apply
-6. Test if your configuration is working
+5. In "Config Files" tab, set log path to "/home/YOURUSER/.config/sunshine/sunshine.log" 
+6. Save and apply
+7. Test if your configuration is working
 
 ![enter image description here](https://i.imgur.com/ckkjXAH.png)
